@@ -1,0 +1,11 @@
+{
+  "name": "spaces-ta-dashes-na",
+  "version": "1.0.1",
+  "description": "Turns your spaces to dashes with any string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nyein Chan",
+  "license": "ISC"
+}
